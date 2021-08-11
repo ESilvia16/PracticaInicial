@@ -1,0 +1,25 @@
+Universidad: Centro de Estudios Superiores del Bajío Campus Querétaro
+Carrera: Licenciatura en Sistemas Computacionales
+Materia: Estructura de Datos
+Profesor: Guillermo Pucheta Antemate
+
+/*ALUMNOS*/
+
+Rene Contreras Osorno
+Serafin Rodriguez Flores
+Juan López Estrella
+Omar Trejo Ramos
+juan jesus trejo gonzalez
+Josue Julian Leon Garcia
+Luis Eduardo Ramirez Rivas
+Manuel Alejandro Valenzuela Romero
+Reyes Baltazar Baltazar
+Janet Iridian Velazquez Sánchez
+Julio Cesar Malagon Mejia
+Alan Daniel Sevilla Hernández
+Gustavo Alfredo Navarrete Cruz
+Nelcy Aline Guerrero Rodriguez
+Ana Rubi Delgado Ramiez
+Reyna Castro Pacheco
+Silvia Olvera Ochoa.
+Noel Francisco Garcia Trejo
