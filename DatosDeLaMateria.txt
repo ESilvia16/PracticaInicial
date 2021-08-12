@@ -2,4 +2,4 @@ CESBA Querétaro,
 Materia:  Estructura de Datos 4° Semestre
 Prof. Guillermo Pucheta Antemate
 Horario:  10:30 a 12:00
-Salón:  B-203
+Salón:  B-203.
